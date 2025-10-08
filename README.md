@@ -25,7 +25,6 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=turgaykara&show_icons=true&locale=en&layout=compact" alt="turgaykara" /></p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/turgaykara/turgaykara/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/turgaykara/turgaykara/output/github-contribution-grid-snake.svg">
