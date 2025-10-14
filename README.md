@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web Application Security**
 
-- </> I'm currently developing this website [Bug Bounty Tutorial](https://turgaykara.github.io/)
+- </> I'm currently developing [Bug Bounty Tutorial](https://turgaykara.github.io/)
 
 - 📫 How to reach me **turgaykara214@gmail.com**
 
