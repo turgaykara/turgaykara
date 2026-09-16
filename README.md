@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Turgay</h1>
-<h3 align="center">A passionate Jr.Penetration Tester from Turkey</h3>
+<h3 align="center">A Penetration Tester from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=turgaykara&label=Profile%20views&color=0e75b6&style=flat" alt="turgaykara" /> </p>
 
